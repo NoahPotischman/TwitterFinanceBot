@@ -22,7 +22,7 @@ This Twitter bot tweets the current prices and 24-hour percent change for crypto
 ```pip install tweepy yfinance pycoingecko```
 
 
-2. Create a `keys.py` file and include your Twitter API keys and access tokens.
+2. Modify the `keys.py` file to include your Twitter API keys and access tokens.
 
 3. Run the `main.py` script to send a tweet containing the current prices and 24-hour percent change for cryptocurrencies and stock market indices.
 
